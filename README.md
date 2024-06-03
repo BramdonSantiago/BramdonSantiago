@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bramdon Santiago</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-<img src="https://drive.google.com/uc?export=view&id=1SqHp_5jsCij45bQXwnd2ZwnH1oe7jTa_" style="width: 100%;" />
+<img src="https://drive.google.com/uc?export=view&id=195tr8ehKdUZsf93y_IQQCxH3b0-qSQIO" style="width: 100%;" />
 
 <h3 align="left">Connect with me:</h3>
 
