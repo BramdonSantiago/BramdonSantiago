@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img src="https://drive.google.com/file/d/1b3oowTccXoTh8ziYcGR1RlkWXJFhxF4b/view?usp=sharing" style="width: 100%;" />
+<img src="https://drive.google.com/uc?export=view&id=1b3oowTccXoTh8ziYcGR1RlkWXJFhxF4b" style="width: 100%;" />
 
 <p align="left">
 <a href="https://linkedin.com/in/bramdonsantiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bramdonsantiago" height="30" width="40" /></a>
