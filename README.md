@@ -3,13 +3,13 @@
 
 <img src="https://drive.google.com/uc?export=view&id=1tqo5e4wzwTcm4U2n0AHLyUPdr_u2ZoPy" style="width: 100%;" />
 
-<p align="left">If you made it this far, welcome! By the way, this was 'Birdcito' 🐦-he used to wake me up early every morning to code. He was the sweetest little thing ❤️. Feel free to check out some projects I've developed as a hobby!</p>
+<p align="left">If you made it this far, welcome! By the way, this was 'Birdcito' 🐦-he used to wake me up early every morning to code. He was the sweetest little thing ❤️. Feel free to check out some gitHub projects I've developed as a hobby or visit my portfolio! <a href="https://bramdonsantiago.github.io/portfolio" target="_blank">https://bramdonsantiago.github.io/portfolio</a></p>
 
 <h3 align="left">Connect with me:</h3>
 
 
 <p align="left">
-<a href="https://linkedin.com/in/bramdonsantiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bramdonsantiago" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bramdonsantiago" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bramdonsantiago" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills:</h3>
