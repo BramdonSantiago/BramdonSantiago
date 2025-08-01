@@ -19,7 +19,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bramdonsantiago&show_icons=true&locale=en&layout=compact" alt="bramdonsantiago" /></p>
 
-<img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C30%2C20%5D%2C%22backgroundColor%22%3A%5B%22%233B82F6%22%2C%22%2360
+![Gráfica circular](https://quickchart.io/chart?w=150&h=150&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C30%2C20%5D%2C%22backgroundColor%22%3A%5B%22%233B82F6%22%2C%22%2360A5FA%22%2C%22%2393C5FD%22%5D%7D%5D%7D%7D)
+
 
 
 
