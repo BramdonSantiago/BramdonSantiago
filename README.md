@@ -19,6 +19,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bramdonsantiago&show_icons=true&locale=en&layout=compact" alt="bramdonsantiago" /></p>
 
+![Gráfica circular](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['HTML','CSS','JavaScript'],datasets:[{data:[50,30,20],backgroundColor:['#3B82F6','#60A5FA','#93C5FD']}]}})
+
+
 <h3 align="left">Hobbies and others:</h3>
 <p align="left">I like playing basketball ⛹️‍♂️. I can play the guitar 🎸, and a little bit of the piano 🎹.</p>
 
