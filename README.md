@@ -1,6 +1,3 @@
-![Donut delgado](https://quickchart.io/chart?w=150&h=150&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B50%2C30%2C20%5D%2C%22backgroundColor%22%3A%5B%22%233B82F6%22%2C%22%2360A5FA%22%2C%22%2393C5FD%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2280%25%22%7D%7D)
-
-
 <h1 align="center">Hi 👋, I'm Bramdon Santiago</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
