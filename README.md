@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bramdon Santiago</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
+<h3 align="center">A passionate Frontend Developer from México</h3>
 
 <img src="https://drive.google.com/uc?export=view&id=1tqo5e4wzwTcm4U2n0AHLyUPdr_u2ZoPy" style="width: 100%;" />
 
